@@ -7,6 +7,5 @@ The codes in this site are CC BY 4.0 licensed. The license wording can be found 
 
 
 <!---
-HTWDMAR/HTWDMAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
