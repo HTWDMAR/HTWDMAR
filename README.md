@@ -4,8 +4,3 @@ The site provides codes that were developed part of different academic and resea
 the connected repository.
 
 The codes in this site are CC BY 4.0 licensed. The license wording can be found [here](https://creativecommons.org/licenses/by/4.0/).
-
-
-<!---
-
---->
